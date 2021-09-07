@@ -1,4 +1,8 @@
 <h1 align="center"> Hi 👋 </h1>
+<center>
+  <img src="https://raw.githubusercontent.com/zal-byte/zal-byte/main/card.png"/>  
+</center>
+  
 <details>
 <summary>
   My Hobbies
