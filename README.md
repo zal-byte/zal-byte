@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋 </h1>
+<details>
+<summary>
+  My Hobbies
+</summary>
+  <br/>
+  <ul>
+    <li>
+       Programming
+    </li>
+    <li>
+       Training Kenjutsu
+    </li>
+  </ul>
+</details>
 
 <!--
 **zal-byte/zal-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
