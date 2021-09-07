@@ -18,6 +18,31 @@
   </ul>
 </details>
 
+<details>
+<summary>
+  My Contact
+</summary>
+  <br/>
+  <ul>
+    <li>
+      <a href="https://facebook.com/rizal.lolicondesu">Facebook</a>
+    </li>
+    <li>
+      <a href="https://twitter.com/Zappan10">Twitter</a>
+    </li>
+    <li>
+      <a href="https://wa.me/+6289671149911">WhatsApp</a>
+    </li>
+    <li>
+      <b> Mail </b>
+      <ul>
+        <li> xbyte00@gmail.com </li>
+        <li> rizal.solehudin45@gmail.com </li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
 <!--
 **zal-byte/zal-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
