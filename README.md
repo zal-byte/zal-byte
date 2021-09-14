@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 </h1>
 <center>
-  <div class="tenor-gif-embed" data-postid="19335448" data-share-method="host" data-aspect-ratio="0.7125" data-width="100%"><a href="https://tenor.com/view/haruhi-hare-hare-yukai-cute-god-gif-19335448">Haruhi Hare Hare Yukai Sticker</a>from <a href="https://tenor.com/search/haruhi-stickers">Haruhi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" height="100"/>
 </center>
   
 <details>
