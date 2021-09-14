@@ -59,8 +59,9 @@
     <h2 align="left">
         Contact Me
     </h2>
-    <img src="https://c.tenor.com/cnT6RIQH4-0AAAAC/anime.gif" align="right" height="250">
+     <img src="https://c.tenor.com/cnT6RIQH4-0AAAAC/anime.gif" align="right" height="250">
     </div>
+    <br/>
     <div>
      <p align="center">
       <a href="https://facebook.com/rizal.lolicondesu" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
