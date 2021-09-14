@@ -1,65 +1,51 @@
-<h1 align="center"> Hi 👋 </h1>
-<p align="center">
-  <img src="https://c.tenor.com/bFtrVz3Ahg4AAAAC/anime-girls.gif">
-  </p>
-  <hr>
-
+<body>
+    <h2 align='center'>
+      Hello There !
+  </h3>
   
-<details>
-<summary>
-  My Hobbies
-</summary>
-    <p align="center">
-  <img src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" height="200" style="width:350;" >
+  <p align="center">
+    <img src="https://c.tenor.com/bFtrVz3Ahg4AAAAC/anime-girls.gif">
   </p>
-  <br/>
+  
+ <h2 align="center">
+    My Information
+  </h2>
   <ul>
-    <li>
-       Programming
-    </li>
-    <li>
-       Training Kenjutsu
-    </li>
+    <li> <b>Name : </b> Rizal </li>
+    <li> <b>Age : </b> 18 y.o </li>
+    <li> <b>Gender : </b> Male </li>
+    <li> <b>Hobbys : </b> Programming Stuff, Kenjutsu </li>    
   </ul>
-
-</details>
-
-<details>
-<summary>
-  My Contact
-</summary>
   <br/>
-  <ul>
-    <li>
-      <a href="https://facebook.com/rizal.lolicondesu">Facebook</a>
-    </li>
-    <li>
-      <a href="https://twitter.com/Zappan10">Twitter</a>
-    </li>
-    <li>
-      <a href="https://wa.me/+6289671149911">WhatsApp</a>
-    </li>
-    <li>
-      <b> Mail </b>
-      <ul>
-        <li> xbyte00@gmail.com </li>
-        <li> rizal.solehudin45@gmail.com </li>
-      </ul>
-    </li>
-  </ul>
-</details>
-
-<!--
-**zal-byte/zal-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <b>
+      Sore dake desu ~
+    </b>
+  </p>
+  
+  <div>
+    <h2 align="right">
+      Knowledge
+    </h2>
+    <p>
+    <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="left">
+  </div>
+  <div>
+    <p align="center">
+      <img src="https://img.shields.io/badge/PHP-red?style=for-the-badge&logo=php&logoColor=white">
+       <img src="https://img.shields.io/badge/JAVA-critical?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white">
+      <br/>
+      <img src="https://img.shields.io/badge/CSS-lightgreen?style=for-the-badge&logo=css3&logoColor=darkgreen">
+      <img src="https://img.shields.io/badge/HTML5-lightgreen?style=for-the-badge&logo=html5&logoColor=darkgreen">
+      <br/>
+    <p> And im also good at imagination my waifu ;D, these knowledge not all advanced skills :"( </p>
+    </p>
+  </div>
+  <br>
+  <br>
+  <h2> Social </h2>
+  </body>
+  
