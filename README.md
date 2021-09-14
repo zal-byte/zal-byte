@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 </h1>
 <center>
-  <img src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" height="100"/>
+  <img src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" height="200" style="width:350;" >
 </center>
   
 <details>
