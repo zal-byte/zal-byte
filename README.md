@@ -41,11 +41,25 @@
       <img src="https://img.shields.io/badge/CSS-lightgreen?style=for-the-badge&logo=css3&logoColor=darkgreen">
       <img src="https://img.shields.io/badge/HTML5-lightgreen?style=for-the-badge&logo=html5&logoColor=darkgreen">
       <br/>
-    <p> And im also good at imagination my waifu ;D, these knowledge not all advanced skills :"( </p>
+    <p> And im also good at imagination my waifu ;D, these knowledge not all advanced skills :"(, and my english still bad. Sorry. </p>
+      <br/>
     </p>
   </div>
   <br>
-  <br>
-  <h2> Social </h2>
+  <div>
+    <h2 align="left">
+        Contact Me
+    </h2>
+    <img src="https://c.tenor.com/cnT6RIQH4-0AAAAC/anime.gif" align="right" height="250">
+    </div>
+    <div>
+     <p align="center">
+      <a href="https://facebook.com/rizal.lolicondesu" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+         <a href="https://twitter.com/Zappan10" target="_blank"><img src="https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+         <a href="https://wa.me/6289671149911" target="_blank"><img src="https://img.shields.io/badge/WhatApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+         <a href="https://t.me/tamamura_00_byte" target="_blank"><img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    </p>
+    </div>
+
   </body>
   
