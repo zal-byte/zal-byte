@@ -59,7 +59,9 @@
     <h2 align="left">
         Contact Me
     </h2>
-     <img src="https://c.tenor.com/cnT6RIQH4-0AAAAC/anime.gif" align="right" height="250">
+    <p align="center">
+             <img src="https://c.tenor.com/cnT6RIQH4-0AAAAC/anime.gif" height="250">
+    </p>
     </div>
     <br/>
     <div>
