@@ -47,6 +47,15 @@
   </div>
   <br>
   <div>
+    <h2 align="center">
+        Statistics
+    </h2>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zal-byte&show_icons=true&theme=onedark&text_color=#f5f5f5">
+    </p>
+    </div>
+    <br/>
+  <div>
     <h2 align="left">
         Contact Me
     </h2>
