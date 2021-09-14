@@ -1,12 +1,17 @@
 <h1 align="center"> Hi 👋 </h1>
-<center>
-  <img src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" height="200" style="width:350;" >
-</center>
+<p align="center">
+  <img src="https://c.tenor.com/bFtrVz3Ahg4AAAAC/anime-girls.gif">
+  </p>
+  <hr>
+
   
 <details>
 <summary>
   My Hobbies
 </summary>
+    <p align="center">
+  <img src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" height="200" style="width:350;" >
+  </p>
   <br/>
   <ul>
     <li>
@@ -16,6 +21,7 @@
        Training Kenjutsu
     </li>
   </ul>
+
 </details>
 
 <details>
