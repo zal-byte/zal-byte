@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/CSS-lightgreen?style=for-the-badge&logo=css3&logoColor=darkgreen">
       <img src="https://img.shields.io/badge/HTML5-lightgreen?style=for-the-badge&logo=html5&logoColor=darkgreen">
       <br/>
-    <p> And im also good at imagination my waifu ;D, these knowledge not all advanced skills :"(, and my english still bad. Sorry. </p>
+    <p> Watashi no eigo wa mada mada desu </p>
       <br/>
     </p>
   </div>
