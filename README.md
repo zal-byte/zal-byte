@@ -11,10 +11,10 @@
     My Information
   </h2>
   <ul>
-    <li> <b>Name : </b> Rizal </li>
-    <li> <b>Age : </b> 18 y.o </li>
+    <li> <b>Name : </b> Salim udin </li>
+    <li> <b>Age : </b> 19 y.o </li>
     <li> <b>Gender : </b> Male </li>
-    <li> <b>Hobbys : </b> Programming Stuff, Kenjutsu </li>    
+    <li> <b>Hobbys : </b> Coding, and etc. ?_?) </li>    
   </ul>
   <br/>
   <p>
